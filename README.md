@@ -6,7 +6,8 @@
 [![Transformers](https://img.shields.io/badge/Transformers-4.0%2B-orange)](https://huggingface.co/transformers/)
 [![NLTK](https://img.shields.io/badge/NLTK-3.6%2B-green)](https://www.nltk.org/)
 
-An interactive tool for evaluating English-to-Bengali machine translations using the NLLB (No Language Left Behind) model and METEOR evaluation metrics.
+An interactive tool for evaluating English-to-Bengali machine translations using the NLLB (No Language Left Behind) model and METEOR evaluation metrics. 
+The tool uses **Facebook's NLLB-200-1.3B** model to translate English text to Bengali.
 
 </div>
 
